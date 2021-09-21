@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0169: El campo 'CONTRASEÑA.srvLDAPActiveDirectory' nunca se usa
+dotnet_diagnostic.CS0169.severity = none
